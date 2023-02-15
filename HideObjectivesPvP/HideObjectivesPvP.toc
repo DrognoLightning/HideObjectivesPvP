@@ -1,0 +1,7 @@
+## Interface: 100005
+## Version: 1.0.0
+## Title: HideObjectivesPvP
+## Notes: Hide the objective frame in pvp and shows otherwise
+## Author: DrongoLightning
+
+HideObjectivesPvP.lua
